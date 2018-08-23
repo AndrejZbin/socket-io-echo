@@ -1,0 +1,29 @@
+{
+  "name": "socketio-echo",
+  "version": "1.0.0",
+  "description": "Echo server for testing socket.io clients",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrejZbin/socket-io-echo.git"
+  },
+  "keywords": [
+    "socket.io",
+    "server",
+    "echo",
+    "test"
+  ],
+  "author": "Andrej Zbín",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrejZbin/socket-io-echo/issues"
+  },
+  "homepage": "https://github.com/AndrejZbin/socket-io-echo#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
